@@ -1,6 +1,9 @@
 App Link: https://snackvotingapp.firebaseapp.com/
 #### side note:
 1. There  are user John that voted for Banana and Jane for Apple
+2. I tried to meet all the requirement I might I missed 1.
+3. This is my first time doing this kind of worked so I did a lot of research and looked at tutorials.
+4. I have done css and html worked but first time working with frameworks(Anguler) and creating a web app and deploying it.
 # Snack Voting App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
