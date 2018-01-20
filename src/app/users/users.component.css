@@ -1,0 +1,52 @@
+.users-input-wrapper{
+    margin-bottom: 20px;
+}
+
+.btn{
+    outline: none;
+    box-shadow: none;
+    border-width: 2px;
+    border-radius: 3px;
+    border-style: solid;
+    padding: 8px;
+}
+
+.btn-primary{
+    float: right;
+    color: rgba(73, 204, 249, 1.0);
+    border-color: rgba(73, 204, 249, 1.0);
+    background-color: transparent;
+}
+input {
+     width: 804;
+     border: none;
+     border-top: 2px solid rgba(73, 204, 249, 1.0);
+     border-bottom: 2px solid rgba(73, 204, 249, 1.0);
+     border-right: 2px solid rgba(73, 204, 249, 1.0);
+     border-left: 2px solid rgba(73, 204, 249, 1.0);
+     margin-right: 10px;
+     padding: 5px;
+     line-height: 17px;
+     background-color: transparent;
+     font-style: bold;
+     font-size: 20px;
+     font-family: sans-serif;
+     color: white;
+ }
+input:focus {
+    outline: none;
+    border: none;
+    border-top: 2px solid rgba(73, 204, 249, 1.0);
+    border-bottom: 2px solid rgba(73, 204, 249, 1.0);
+    border-right: 2px solid rgba(73, 204, 249, 1.0);
+    border-left: 2px solid rgba(73, 204, 249, 1.0);
+}
+ul{
+    list-style: none;
+    text-align: left;
+    white-space: pre-wrap;
+    font-size: 16px;
+}
+label{
+    font-size: 16px;
+}

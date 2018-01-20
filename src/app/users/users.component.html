@@ -1,0 +1,13 @@
+<div class="users-input-wrapper">
+    <label>Name: </label>
+    <input type="text" [(ngModel)]="name" value={{name}} />
+    <button class="btn btn-primary" (click)="addUsers()">Submit</button>
+    <ul>
+        <h6>{{voter}}</h6>
+        <h5>Select your favorite fruit:</h5>
+        <li>{{snacks[0]}}<button class="btn btn-primary" (click)="buttonPressed(0)">Submit</button> </li>
+        <li>{{snacks[1]}}<button class="btn btn-primary" (click)="buttonPressed(1)">Submit</button></li>
+        <li>{{snacks[2]}}<button class="btn btn-primary" (click)="buttonPressed(2)">Submit</button></li>
+        <li>{{snacks[3]}}<button class="btn btn-primary" (click)="buttonPressed(3)">Submit</button></li>
+      </ul>
+  </div>
