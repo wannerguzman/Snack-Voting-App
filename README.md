@@ -1,4 +1,4 @@
-
+[App Link](https://snackvotingapp.firebaseapp.com/)v
 # Snack Voting App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
