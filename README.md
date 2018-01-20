@@ -1,4 +1,4 @@
-[App Link](https://snackvotingapp.firebaseapp.com/)
+[App Link](https://snackvotingapp.firebaseapp.com/) (https://snackvotingapp.firebaseapp.com/)
 #### side note:
 1. There  are user John that voted for Banana and Jane for Apple
 # Snack Voting App
