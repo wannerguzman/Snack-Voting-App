@@ -1,4 +1,6 @@
 [App Link](https://snackvotingapp.firebaseapp.com/)
+#### side note:
+1. There  are user John that voted for Banana and Jane for Apple
 # Snack Voting App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
